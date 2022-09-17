@@ -1,2 +1,2 @@
 # exteraGram-Beta
-Repository for exteraGram Beta APKs
+just repository with beta APKs for exteraGram OTA
